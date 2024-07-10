@@ -1,0 +1,12 @@
+name: Golden_Rule_Solow
+title: Golden_Rule
+username: rcesarpacheco
+account: rcesarpacheco
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12245409
+bundleId: 8798016
+url: https://rcesarpacheco.shinyapps.io/Golden_Rule_Solow/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
